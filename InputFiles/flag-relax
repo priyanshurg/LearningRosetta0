@@ -1,0 +1,6 @@
+-s 2AJF-1_AE.pdb
+-ignore_unrecognized_res
+-out:path:pdb output_files
+-out:path:score output_files/relax.sc
+-nstruct 1
+
